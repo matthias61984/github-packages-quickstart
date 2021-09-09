@@ -1,0 +1,19 @@
+{
+  "name": "@matthias61984/github-packages-quickstart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthias61984/github-packages-quickstart.git"
+  },
+  "author": "Corey Walsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthias61984/github-packages-quickstart/issues"
+  },
+  "homepage": "https://github.com/matthias61984/github-packages-quickstart#readme"
+}
