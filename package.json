@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/matthias61984/github-packages-quickstart#readme",
   "publishConfig": {
-   "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+   "@matthias61984:registry": "https://npm.pkg.github.com"
  }
 }
